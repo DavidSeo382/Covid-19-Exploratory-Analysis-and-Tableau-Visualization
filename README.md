@@ -10,4 +10,6 @@ Conducted exploratory analysis of Covid-19 data in SQL. Utilized different skill
 * Microsoft SQL Server Management Studio 2018
 
 ## Files Included (In Order)
-*
+* Tableau Dashboard
+* SQL Code
+* Excel files that were transfered from SQL then uploaded to Tableau
